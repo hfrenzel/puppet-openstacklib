@@ -14,7 +14,7 @@ class openstacklib::defaults {
     $pyvers = '3'
     $pyver3 = '3.6'
   } else {
-    $pyvers = ''
+    $pyvers = '2'
     $pyver3 = '2.7'
   }
 }
